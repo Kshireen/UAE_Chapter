@@ -10,14 +10,14 @@ BASE_URL='https://data.abudhabi/opendata'
 class DataConnection:
 
     def __init__(self):
-        self.curr_dir=os.path.abspath(os.curdir)
+        self.curr_dir=os.path.dirname(__file__)
 
     @h_e
     def get_dataset(self, dataset_name):
         """ this method is to load dataset in to the dataframe using api calls
             params: string type 'dataset_name'
         """
-        json_path=os.path.join(os.getcwd(),'end_points.json')
+        json_path=os.path.join(self.curr_dir,'end_points.json')
         with open(json_path) as end_points_file:
             datasets = json.load(end_points_file)
             if dataset_name in datasets:
