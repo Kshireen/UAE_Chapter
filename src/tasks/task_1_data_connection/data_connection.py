@@ -17,7 +17,7 @@ class DataConnection:
         """ this method is to load dataset in to the dataframe using api calls
             params: string type 'dataset_name'
         """
-        end_points_path = os.path.join(os.getcwd(),'src/tasks/task_1_data_connection','end_points.json')
+        end_points_path = os.path.join(os.getcwd(),'end_points.json')
         with open(end_points_path) as end_points_file:
             datasets = json.load(end_points_file)
             if dataset_name in datasets:
