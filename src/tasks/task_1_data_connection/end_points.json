@@ -1,0 +1,18 @@
+{
+    "Government Education":"/api/1/metastore/schemas/dataset/items/8135e082-5ab1-472d-b54f-5d8509ad8c8c",
+    "Government and Private Education":"/api/1/metastore/schemas/dataset/items/377da685-9f8a-4170-9a40-00668d8a124b",
+    "General high school graduates by sector and gender":"/api/1/metastore/schemas/dataset/items/0eb846f2-7a32-4fd4-82ed-378fd515d081",
+    "Crop Area, Production Quantity and Value for Field Crops, Vegetables and Fruit Trees by Emirate":"/api/1/metastore/schemas/dataset/items/d284d312-9778-40e6-8d0c-85beba4ed48f",
+    "Number and Area of ​​farms by Agricultural Centers in Al Dhafra Region 2020":"/api/1/metastore/schemas/dataset/items/3103307a-6eff-4c68-850a-333df20d059d",
+    "Distribution of Treated Wastewater by Final Discharge":"/api/1/metastore/schemas/dataset/items/81c465de-2cf6-4623-9832-f21611a9378f",
+    "Land Degradation":"/api/1/metastore/schemas/dataset/items/bdbe8335-67a6-4b1d-824c-1d1fda5214ec",
+    "Contraceptive Prevalence Rate":"/api/1/metastore/schemas/dataset/items/d2de6f50-4ae9-4c25-91ac-57297ef252c6",
+    "Referred Cases Through Primary Health Care By Specialty, Nationality And Medical District":"/api/1/metastore/schemas/dataset/items/6ab40941-0fcb-4570-9c9a-2c2e36af00b2",
+    "Dubai Civil Defence Fire Stations":"/api/1/metastore/schemas/dataset/items/b4048c0d-fa3c-45e0-bd00-588ed069ca91",
+    "Traffic Fines":"/api/1/metastore/schemas/dataset/items/bb93c378-5bc7-4e5e-ac1a-a18cb33886cf",
+    "Traffic Accidents":"/api/1/metastore/schemas/dataset/items/9182ecec-c7a1-4546-8c23-e5e16243dcc5",
+    "Electricity Peak Load":"/api/1/metastore/schemas/dataset/items/17033ad4-48db-4f64-af1c-1b68c6f71df7",
+    "Electricity Generation for Northern Emirates":"/api/1/metastore/schemas/dataset/items/5ea9c008-f5c6-4e5e-816a-478905125281",
+    "Energy and Sustainability Industries -":"/api/1/metastore/schemas/dataset/items/712b2a45-246a-409f-a73c-432419a5f63f"
+
+}
